@@ -20,9 +20,10 @@ This is fully functional automated Financial Model involved four major steps:
 
 Excel 📑 > AWS ☁️ > Snowflake 🔄 > Power BI 📊
 
-### Microsoft Excel
-- Basic Cleaning
+### Microsoft Excel 
+- Data Cleaning
 - Change File Type To CSV
+- [Click Here To Know More](https://www.notion.so/Data-Pre-Processing-Using-Excel-7bf353147197427eafb97152fa46e40b)
 
 ### AWS
 - Bucket Creation In S3
@@ -30,8 +31,8 @@ Excel 📑 > AWS ☁️ > Snowflake 🔄 > Power BI 📊
 - Policy Creation 
 
 ### Snowflack
-- Create Warehouses, Database, Schema, Table 
-- Advance Data Cleaning 
+- Create Warehouses, Database, Schema, Table [Click Here To Know More](https://www.notion.so/Table-Creation-in-Snowflake-b3c0d7c58b3e4dc78b641495be73b8ce)
+- Advance Data Cleaning  [Click Here To Know More](https://www.notion.so/Data-transformation-In-SQL-a16a9c2d943941fc96a9c5922ddbe0e3)
 - Storage Integration 
 - File Format and Stage Creation
 - Pipe-Line Creation
@@ -118,16 +119,40 @@ The bank has identified the following questions as important for their analysis:
 8. Can the bank introduce new financial products or services to attract more customers and increase profitability?
 The objective of this analysis is to provide the Czechoslovakia Bank with actionable insights that can help them make informed decisions about their financial operations. The analysis will involve data cleaning, exploratory data analysis, and predictive modelling to identify patterns and trends in the data.
 
+## Visualization
+This report consists of 10 Pages.
+1. KPI
+2. Demographics
+3. Performance
+4. Bank
+5. Card
+6. Account
+7. Account- Balance
+8. Loan
+9. Account & Transaction
+10. Loan
+    
 
-## Demographic profile of the bank's clients 
+You can interact with the report [here](https://www.novypro.com/project/%F0%9D%98%BE%F0%9D%99%AF%F0%9D%99%9A%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%A4%F0%9D%99%A8%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%AB%F0%9D%99%96%F0%9D%99%A0%F0%9D%99%9E%F0%9D%99%96-%F0%9D%98%BD%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A0%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9C-%F0%9D%99%81%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9E%F0%9D%99%96%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%96-%F0%9D%98%BC%F0%9D%99%A3%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%AE%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%A8)
+
+### Demographic profile of the bank's clients 
 ![](Screen_short/Demographics.png)
 
-## Bank Performance By Average Balance Over Year
+### Bank Performance By Average Balance Over Year
 ![](Screen_short/Performance.png)
 
-## Bank Account Type 
+### Bank Account Type 
 ![](Screen_short/Accounts.png)
 ![](Screen_short/Account_type.png)
 
+### Account Type & Balance
+![](Screen_short/Account.png)
 
+### Loan 
+![](Screen_short/Loan.png)
 
+### Card
+![](Screen_short/card.png)
+
+### Number of Account over Year 
+![](Screen_short/no_of_accounts.png)
